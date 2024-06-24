@@ -1,0 +1,6 @@
+[submodule "planning-poker-front"]
+	path = planning-poker-front
+	url = https://github.com/Jesus-Rojas/planning-poker-front
+[submodule "planning-poker-api"]
+	path = planning-poker-api
+	url = https://github.com/Jesus-Rojas/planning-poker-api
