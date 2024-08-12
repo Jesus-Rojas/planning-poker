@@ -4,3 +4,6 @@
 [submodule "planning-poker-api"]
 	path = planning-poker-api
 	url = https://github.com/Jesus-Rojas/planning-poker-api
+[submodule "planning-poker-serverless"]
+	path = planning-poker-serverless
+	url = https://github.com/Jesus-Rojas/planning-poker-serverless
